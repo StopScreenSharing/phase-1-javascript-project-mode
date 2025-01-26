@@ -1,0 +1,16 @@
+h1 {
+    text-align:center;
+    color: rgb(75, 75, 223);
+
+};
+
+hr {
+color:aqua;
+border: none;
+border-top: 3px solid;
+};
+
+label {
+    color:blue;
+    text-align: center;
+}
