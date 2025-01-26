@@ -1,0 +1,175 @@
+
+{
+    "preference": null,
+    "pagination": {
+      "total": 7926,
+      "limit": 10,
+      "offset": 0,
+      "total_pages": 793,
+      "current_page": 1
+    },
+    "data": [
+      {
+        "_score": 136.3913,
+        "thumbnail": {
+          "alt_text": "A bronze lion, deep green and muscular, looks out in the distance from its pedestal in front of the Art Institute of Chicago.",
+          "width": 8430,
+          "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAADY5NTQ/PkI4IT1COjtEQkNHQk5YWFteWWtkTmtoX291WnJ1WX1xZ355cYZ3Zn+Cf42KaoWEeJOKfpeWcoCEgI2OiJaQgp+XgpWRiJWTjKKbjqqhkK+olbGml7q0q7e2sMG5rcbAs8fBuMrGv8/HvsnJud3d3evr7gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQJPnIwKRQpPTyPDgQDaC0gUQIAwsDISjcUgUMB2JpkLJRBSLIAA7",
+          "height": 5620
+        },
+        "api_model": "artworks",
+        "is_boosted": false,
+        "api_link": "https://api.artic.edu/api/v1/artworks/656",
+        "id": 656,
+        "title": "Lion (One of a Pair, South Pedestal)",
+        "timestamp": "2025-01-18T23:27:29-06:00"
+      },
+      {
+        "_score": 120.78998,
+        "thumbnail": {
+          "alt_text": "A work made of oil on board.",
+          "width": 6486,
+          "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAACUiHCckHSghGi4nGislHi0mHjMvJDUuJDUwITcwIz07LUY+LUhALktGNExGNFFINGhYOWdcQXVlRYRmSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4EAwC3JMjxJJhgM1QSEkQAgAOw==",
+          "height": 7661
+        },
+        "api_model": "artworks",
+        "is_boosted": false,
+        "api_link": "https://api.artic.edu/api/v1/artworks/117241",
+        "id": 117241,
+        "title": "Girl with Cat",
+        "timestamp": "2025-01-18T22:41:56-06:00"
+      },
+      {
+        "_score": 116.82324,
+        "thumbnail": {
+          "alt_text": "A work made of oil on cardboard.",
+          "width": 4603,
+          "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFpcVVthVGBgSndvSW5hUWtlWHJvVWxpYHJ1bYd+an2Feo6Da4iGcZmTfqWdi6SgkK+rnLS7q7u4qb68rAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoBIIQ8QQBlIsDXAkzjNJUAgAOw==",
+          "height": 5060
+        },
+        "api_model": "artworks",
+        "is_boosted": false,
+        "api_link": "https://api.artic.edu/api/v1/artworks/45259",
+        "id": 45259,
+        "title": "Nude with Cats",
+        "timestamp": "2025-01-18T22:23:32-06:00"
+      },
+      {
+        "_score": 104.30262,
+        "thumbnail": {
+          "alt_text": "A color woodblock print of two orangeand white cats with pink noses represented in cubist-like design against a blue, gray and black background",
+          "width": 1645,
+          "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAACAmNC0wPW1VOTw/SVlWUXBlVnV2doVnQ494WYx8aI+BboWAedipa4iOlYyQlI+UmaabkLKpmta2jKi52wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoAJNw5IUQEMggWNIwhMxRwgAOw==",
+          "height": 2250
+        },
+        "api_model": "artworks",
+        "is_boosted": false,
+        "api_link": "https://api.artic.edu/api/v1/artworks/16227",
+        "id": 16227,
+        "title": "Cat Making Up",
+        "timestamp": "2025-01-18T22:16:16-06:00"
+      },
+      {
+        "_score": 98.73927,
+        "thumbnail": {
+          "alt_text": "A work made of watercolor and gouache, over touches of graphite, on cream wove paper.",
+          "width": 1754,
+          "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAJB4cbqIcIp/irSQgrWXhbScjbGZlqqdqqicr66iusCklcGpm7m0zb+409LH0NPF09XJ1tbL1tnM2d7P3wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYCRBDtNMD5IIxxAARkEoSwgAOw==",
+          "height": 2250
+        },
+        "api_model": "artworks",
+        "is_boosted": false,
+        "api_link": "https://api.artic.edu/api/v1/artworks/22482",
+        "id": 22482,
+        "title": "Homesickness",
+        "timestamp": "2025-01-18T22:17:58-06:00"
+      },
+      {
+        "_score": 94.163704,
+        "thumbnail": {
+          "alt_text": "A work made of lithograph in 6 colors (red, ochre, yellow, black, gray-brown, brown) from two stones, with scraping on stone, on ivory wove paper.",
+          "width": 2928,
+          "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAEI9JFFFLV5QPWVaOn1VR31rUHhpV3BnXHprWYBhRpJgUIdyU6VqW6pxXKR5WId9b458bcBvZcdwaM14btR3b9V8c9F/eI6Dc6uHeqKSfcORhtiVjdmWjt6ZkAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4GUgxZI9QgAk2jE4CrNBhFVRHdZMkcSFADs=",
+          "height": 2250
+        },
+        "api_model": "artworks",
+        "is_boosted": false,
+        "api_link": "https://api.artic.edu/api/v1/artworks/51719",
+        "id": 51719,
+        "title": "Winter: Cat on a Cushion",
+        "timestamp": "2025-01-18T22:25:25-06:00"
+      },
+      {
+        "_score": 93.41578,
+        "thumbnail": {
+          "alt_text": "A work made of hand-colored woodblock print; tan-e, vertical o-oban.",
+          "width": 2039,
+          "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAK+RdLmlgryjhrCgiL2oj8KymsWzmMq2msvArMvBrNDBrNDGsdjLtNnOtwAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQLMLFmRCvhDECWQhEAOw==",
+          "height": 3800
+        },
+        "api_model": "artworks",
+        "is_boosted": false,
+        "api_link": "https://api.artic.edu/api/v1/artworks/158921",
+        "id": 158921,
+        "title": "Courtesan Playing with a Cat",
+        "timestamp": "2025-01-18T22:53:32-06:00"
+      },
+      {
+        "_score": 92.6831,
+        "thumbnail": {
+          "alt_text": "A work made of lithograph in black on ivory wove paper, laid down on ivory cloth.",
+          "width": 1767,
+          "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAC0nHFpSRH92Z4V+boyDdJOId6KWh6GYiaacjKidja6lkq6klLKolrmunb6zosO4psK6qMe6qNHEstPItwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYIQs0zMojQBARxEwhOQkRggAOw==",
+          "height": 2250
+        },
+        "api_model": "artworks",
+        "is_boosted": false,
+        "api_link": "https://api.artic.edu/api/v1/artworks/68825",
+        "id": 68825,
+        "title": "The Cats' Rendezvous",
+        "timestamp": "2025-01-18T23:21:24-06:00"
+      },
+      {
+        "_score": 92.408035,
+        "thumbnail": {
+          "alt_text": "A work made of gold, enamel, and baroque pearl.",
+          "width": 2911,
+          "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAKGJbLOYdbKafMGhdJ6fn6eWgLSgiLCnnKKhoaWjpKakpaelpqenp66wtbKwsbSztLW0tLi3uLe5v7y9vsasjsO6ssK9vMPAvsfBvMXBwMTCwsLCxcjIyO3m3wAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYILMoCUJAjxMczXR1QyFtBiUAEYdVVqaFADs=",
+          "height": 2250
+        },
+        "api_model": "artworks",
+        "is_boosted": false,
+        "api_link": "https://api.artic.edu/api/v1/artworks/119335",
+        "id": 119335,
+        "title": "Baroque Pearl Mounted as a Cat Holding a Mouse",
+        "timestamp": "2025-01-18T22:42:29-06:00"
+      },
+      {
+        "_score": 90.40307,
+        "thumbnail": {
+          "alt_text": "A work made of engraving on ivory paper.",
+          "width": 3000,
+          "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAADs2K0I9MkM/NFJNPFhSQV1XRGFaSGJcTGVfT2dhTWhhTW5nU25nVm9oV29pWXFqVXFrWXZuWHdwW3hwXoN6X4Z9YoR7ZIR7ZYZ9ZZCHcK6kibWrj8e8n8m/oQAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYILRUlIIwwVAYxwREhHU1wpNgksZ1W+aEADs=",
+          "height": 2305
+        },
+        "api_model": "artworks",
+        "is_boosted": false,
+        "api_link": "https://api.artic.edu/api/v1/artworks/9372",
+        "id": 9372,
+        "title": "The Large Cat",
+        "timestamp": "2025-01-18T22:14:36-06:00"
+      }
+    ],
+    "info": {
+      "license_text": "The `description` field in this response is licensed under a Creative Commons Attribution 4.0 Generic License (CC-By) and the Terms and Conditions of artic.edu. All other data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+      "license_links": [
+        "https://creativecommons.org/publicdomain/zero/1.0/",
+        "https://www.artic.edu/terms"
+      ],
+      "version": "1.10"
+    },
+    "config": {
+      "iiif_url": "https://www.artic.edu/iiif/2",
+      "website_url": "http://www.artic.edu"
+    }
+  }

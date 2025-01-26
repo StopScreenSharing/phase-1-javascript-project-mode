@@ -1,5 +1,18 @@
 # Phase 1 Project Guidelines
 
+# About the Project 
+
+## Title: Alphabetic Art Gallery Bonanza 
+Description: My project iterates over an API of images or art from a museum and displays them in alphabetical order according to the letter you pick from the drop down menu. You can add likes and a comment to each image.
+
+## Installation
+-Clone the repo
+-Navigate to the project directory
+-install the dependencies 
+-run the local host (json-server --watch db.json)
+
+
+
 ## Learning Goals
 
 - Design and architect features across a frontend
