@@ -1,14 +1,15 @@
 document.addEventListener('DOMContentLoaded', ()=> {
-    const imgUrl = 'https://api.artic.edu/api/v1/artworks/search?q=cats';
+    const imgUrl = 'http://localhost:3000/data';
     const dropdown = document.getElementById('letter-dropdown');
     const imageContainer = document.getElementById('art-image-gallery');
+    imageContainer.style.textAlign = 'center';
 
     let artworks = [];
 
     fetch(imgUrl)
     .then(response => response.json())
     .then(data => {
-        artworks = data.data;
+        artworks = data;
         displayArtworks(artworks);
     })
     .catch(error => console.error('Error fetching images:', error));
@@ -23,6 +24,8 @@ document.addEventListener('DOMContentLoaded', ()=> {
 
                 const likeButton = document.createElement('button');
                 likeButton.textContent = 'Like';
+                likeButton.style.backgroundColor = 'blue';
+                likeButton.style.color = 'white';
                 let LikeCount = 0;
                 likeButton.addEventListener('click', () => {
                     LikeCount++;
@@ -34,8 +37,11 @@ document.addEventListener('DOMContentLoaded', ()=> {
 
                 const commentButton = document.createElement('button');
                 commentButton.textContent = 'Submit Comment';
+                commentButton.style.backgroundColor = 'blue';
+                commentButton.style.color = 'white';
 
                 const commentList = document.createElement('div');
+                commentList.style.textAlign = 'center';
 
                 commentButton.addEventListener('click', (event) => {
                     event.preventDefault();
